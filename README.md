@@ -1,6 +1,4 @@
 # Credit_Card_detection
-Certainly, Temidayo! Here's a more professional version tailored for a credit card detection system:
-
 ---
 
 **Welcome to Our Credit Card Fraud Detection System**
